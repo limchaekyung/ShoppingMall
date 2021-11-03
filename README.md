@@ -1,6 +1,7 @@
 # ShoppingMall
 Hello! The theme of this shopping mall is travel.  
 
+
 # 기술 스택
 ### 사용한 언어
 node.js  
@@ -30,8 +31,9 @@ boiler-plate
 
 # 사용법
 ### 설치
-`yarn install`이후  
-client에 들어가서 `yarn install`
+config 폴더 안에 dev.js 생성 후  
+mongoDB 클러스터 정보를 입력
+루트 및 클라이언트 경로에서 yarn install`
 
 ### 사용
 yarn dev
