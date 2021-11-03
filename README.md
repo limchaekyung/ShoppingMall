@@ -30,7 +30,7 @@ boiler-plate
 
 # 사용법
 ### 설치
-`yarn install`이후 
+`yarn install`이후  
 client에 들어가서 `yarn install`
 
 ### 사용
